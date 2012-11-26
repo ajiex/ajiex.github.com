@@ -1,0 +1,4 @@
+ajiex.github.com
+================
+
+myblog
